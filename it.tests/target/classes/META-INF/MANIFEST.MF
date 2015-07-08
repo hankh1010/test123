@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1435696521531
+Bnd-LastModified: 1436361494072
 Build-Jdk: 1.7.0_71
 Built-By: sdsa
 Bundle-Description: Bundles for Integration Tests for Samsung

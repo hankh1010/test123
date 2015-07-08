@@ -43,6 +43,6 @@ implements SlingRemoteTestParameters, SlingTestsCountChecker {
     }
 
     public String getTestMethodSelector() {
-        return null;
+        return "";
     }
 }
